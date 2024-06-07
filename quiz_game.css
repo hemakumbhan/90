@@ -1,0 +1,15 @@
+body{
+    background-image:url(https://www.adorama.com/alc/wp-content/uploads/2018/11/landscape-photography-tips-yosemite-valley-feature.jpg);
+    background-size: cover;
+}
+input{
+    width:40%;}
+
+#output{
+    background:white;
+    border-radius:10px;
+    border-top:10px solid red;
+    padding:10px;
+    float:none;
+    text-align:left;
+    }
